@@ -4,7 +4,7 @@ My AI Chatbot
 
 ## Description
 
-I'm creating an AI chatbot that can talk to you. It has an AI interface and privacy and ethic.It will have personalised conversations with the user and be a fun AI chatbot.
+I'm creating an AI chatbot that can talk to you. It has an AI interface and privacy and ethic.It will have personalised conversations with the user and be a fun AI chatbot, it can help you talk about personal issues possibly and can comfort you.
 
 ## Getting Started
 
